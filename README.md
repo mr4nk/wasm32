@@ -23,3 +23,10 @@ $ ssvmup build
 $ cd node
 $ node server.js
 Listening at http://localhost:8080
+
+Then point your browser to `http://hostname:8080` enter some text to be encoded to base64  
+
+![alt text](https://github.com/mr4nk/wasm32/blob/master/wasm32/pics/encode.jpeg?raw=true)
+
+Enter base64 encoded text to decode
+![alt text](https://github.com/mr4nk/wasm32/blob/master/wasm32/pics/decode.jpeg?raw=true)
